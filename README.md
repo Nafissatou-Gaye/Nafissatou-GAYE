@@ -1,69 +1,42 @@
-#  Bonjour, je suis Nafissatou GAYE
+# Hi there, I'm Nafissatou Gaye 
 
-## À propos de moi
+### Telecommunications & Networks Graduate | Aspiring AI & Network Intelligence Engineer
 
-Étudiante passionnée en **Réseaux et Télécommunications** en Licence 3, je suis une personne motivée et curieuse, fascinée par l'univers des technologies de l'information. Mon parcours académique me permet de développer une solide expertise technique tout en explorant le domaine du développement web.
+I hold a **Bachelor of Science in Telecommunications and Networks** (*Mention Assez Bien*, GPA: 14.06/20) from the *École Supérieure de Technologie et de Management* (ESTM) in Dakar, Senegal. My work bridges **network architectures, cybersecurity, and full-stack engineering** with **Artificial Intelligence and Data Engineering**.
 
-## Mes domaines d'expertise
-
-### Réseaux et Télécommunications
-- Architecture des réseaux
-- Protocoles de communication
-- Sécurité réseau
-- Administration système
-
-### Développement Web
-- Création de sites web responsive
-- Développement d'applications web
-- Technologies front-end et back-end
-- Frameworks modernes
-
-## Mes objectifs
-
-Toujours avide d'apprendre et de relever de nouveaux défis, je cherche à :
-- Approfondir mes connaissances en technologies émergentes
-- Contribuer à des projets innovants
-- Évoluer dans un environnement stimulant
-- Participer à la transformation numérique
-
-## Technologies et outils
-
-```javascript
-const nafissatou = {
-    domaines: ["Réseaux", "Télécommunications", "Développement Web"],
-    langages: ["HTML", "CSS", "JavaScript", "Python", "PHP"],
-    frameworks: ["Flask", "Bootstrap", "tailwindcss"],
-    outils: ["Git", "VS Code", "Cisco Packet Tracer"],
-    bases_donnees: ["MySQL", "SQLite", "PostgreSQL"],
-    status: "En apprentissage continu"
-};
-```
-
-## Statistiques GitHub
-
-## Projets en cours
-
-- **Création d’application avec glide** - Application web et mobile
-- **Projets réseaux** - Implémentation et configuration de topologies réseau
-- **Apprentissage continu** - Exploration de nouvelles technologies web
-
-## Me contacter
-
--  **Formation** : Licence 3 Réseaux et Télécommunications
--  **Recherche** : Opportunités de stage et projets collaboratifs
--  **Centres d'intérêt** : Innovation technologique, développement, entrepreneuriat numérique
+I am currently preparing for graduate studies in **Artificial Intelligence** to design intelligent, secure, and scalable digital infrastructure solutions.
 
 ---
 
-> *"La technologie ne cesse d'évoluer, et moi aussi !"* 
+###  Featured Projects
 
- N'hésitez pas à explorer mes repositories et à contribuer à mes projets !
-
-## Certifications et formations
-
--  En cours : Licence Réseaux et Télécommunications
--  CCNA3 (Réseaux)
--  Formation continue en technologies émergentes
+* **[Automated Smart Irrigation API (`irrigation_api`)](https://github.com)** — End-to-end IoT and Machine Learning system combining an **ESP32 microcontroller** with a **Python (FastAPI)** backend and a trained **Scikit-Learn Logistic Regression** model to optimize agricultural water usage.
+* **Artist Académie (Decoupled LMS Platform)** — Bachelor's thesis project featuring a decoupled **Laravel 12 API / Next.js 16 frontend / PostgreSQL** architecture, mobile money integration (Wave API with HMAC-SHA256 webhooks), and SSR SEO optimization.
+* **Enterprise IAM & Campus Network Security** — Multi-VM Identity and Access Management deployment integrating **FreeIPA** (LDAP, Kerberos, CA), **Windows Server 2022 Active Directory**, **FreeRADIUS** (802.1X/EAP-TTLS dynamic VLANs), and **OpenVPN**.
+* **[Student Management System (`Syst-me-gestion-etudiant-estm`)](https://github.com)** — Role-based academic management web application built with **Python (Flask)** and SQLite/SQLAlchemy.
 
 ---
+
+###  Tech Stack & Tools
+
+* **AI & Data Science:** Python, Scikit-Learn, Pandas, NumPy, SQL, PostgreSQL, MySQL, SQLite, Redis
+* **Backend & Web Development:** FastAPI, Flask, Django, PHP (Laravel), JavaScript/TypeScript (Next.js, React), REST APIs
+* **Networking & Security:** Routing & Switching (CCNA), FreeIPA, Active Directory, FreeRADIUS, WireGuard, OpenVPN, iptables/nftables
+* **Cloud, DevOps & IoT:** Docker, Docker Compose, Proxmox VE, VMware, Linux (Ubuntu, AlmaLinux), Grafana, Prometheus, Git, ESP32, Arduino
+
+---
+
+###  Certifications
+
+* **AI Fundamentals** — Google (Coursera) | *Sep 2026*
+* **Introduction to Databases** — Meta (Coursera) | *Sep 2026*
+* **Introduction to Data Engineering** — IBM (Coursera) | *Aug 2026*
+* **CCNA: Switching, Routing, and Wireless Essentials (CCNA 3)** — Cisco Networking Academy
+
+---
+
+###  Connect with Me
+
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **Email:** nafissatou.gayee@gmail.com
 
